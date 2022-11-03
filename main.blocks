@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="^LFGK|/)py)bQ3ei@~6H" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="H]3Isas!tpCDTR(}z0Gn"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # . # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="TDq;$UA.Cs$Ev}l:F=J]"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # . # . 
+        . . . . .
+        `</field></block></next></block></statement></block><block type="pxt-on-start" id="7VN{U%6?X)?:q[3b0!N5" x="468" y="95"></block><block type="basic_show_icon" id="oJ*:S%(]E/XGy}fLi%N[" disabled="true" x="332" y="250"><field name="i">IconNames.Happy</field><next><block type="controls_repeat_ext" id="i_RIe7vsYnH@Nw|xe8Cx" disabled="true"><value name="TIMES"><shadow type="math_whole_number" id="0[v4x#`.tfgREOd|n5Wo" disabled="true"><field name="NUM">2093903290392</field></shadow></value><statement name="DO"><block type="device_plot" id="@NB4c,uz5OVr$9Q,S_,C" disabled="true"><value name="x"><shadow type="math_number_minmax" id="k?kdZ08;F~wCn#-sZn,I" disabled="true"><mutation min="0" max="4" label="X" precision="1"></mutation><field name="SLIDER">293829</field></shadow></value><value name="y"><shadow type="math_number_minmax" id="=b$b69N*A$~t,WMmJ7`z" disabled="true"><mutation min="0" max="4" label="Y" precision="1"></mutation><field name="SLIDER">30</field></shadow></value><next><block type="device_led_toggle" id="rl.ge(b-Q,Rd!p{L~#ml" disabled="true"><value name="x"><shadow type="math_number_minmax" id="#Edi*W82qFS]D2p1~l+v" disabled="true"><mutation min="0" max="4" label="X" precision="1"></mutation><field name="SLIDER">34092</field></shadow></value><value name="y"><shadow type="math_number_minmax" id="C.iO.nDC4#}!VOhs[99+" disabled="true"><mutation min="0" max="4" label="Y" precision="1"></mutation><field name="SLIDER">1</field></shadow></value></block></next></block></statement></block></next></block><block type="basic_show_arrow" id="/@$jSVEOz;.PWU,,NXG)" disabled="true" x="534" y="310"><value name="i"><shadow type="device_arrow" id="b0H5Ngnjue%hk-CH16%C" disabled="true"><field name="arrow">ArrowNames.North</field></shadow></value><next><block type="device_show_leds" id="YDVKdQ.~m^LBNSmbQxKc" disabled="true"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_print_message" id="OHg1eA{p@/$T8RwUTLVY" disabled="true"><value name="text"><shadow type="text" id="tc7:{IjmeFPizHsc{l(w" disabled="true"><field name="TEXT">sopas</field></shadow></value></block></next></block></next></block></xml>
